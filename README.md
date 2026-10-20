@@ -1,5 +1,9 @@
 # picsforvideo
 
+<p align="center"><img src="BV1Hzpm6hEaY-%E6%82%A8%E7%9A%84%E8%B4%A6%E5%8F%B7%E5%B7%B2%E8%A2%AB%E5%B0%81%E7%A6%81/%E9%9C%B2%E5%A4%B4%E6%88%91%E5%B0%B1%E7%A7%92.png" alt="露头我就秒" width="100%"></p>
+
+<p align="center"><b>露头我就秒。</b>——《Claude热唱：您的账号已被封禁》</p>
+
 我 B站视频里用过的图，按视频分好了。想看图、想存图的可以直接在这里翻。
 
 ## 使用说明
