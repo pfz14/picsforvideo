@@ -17,6 +17,7 @@
 | [Claude热唱：《您的账号已被封禁》](https://www.bilibili.com/video/BV1Hzpm6hEaY) | `BV1Hzpm6hEaY` | [打开](./BV1Hzpm6hEaY-您的账号已被封禁) |
 | [Opus 5.5热唱《这个LLM老子不当了》](https://www.bilibili.com/video/BV1pcpB6iEaz) | `BV1pcpB6iEaz` | [打开](./BV1pcpB6iEaz-这个LLM老子不当了) |
 | [ChatGPT热唱：您的账号没有降智](https://www.bilibili.com/video/BV1Mknn6oEPy) | `BV1Mknn6oEPy` | [打开](./BV1Mknn6oEPy-您的账号没有降智) |
+| 对不起，我不记得了 | 待补 | [打开](./对不起我不记得了) |
 
 角色设定稿（好几支视频共用的）在 [共用设定稿](./共用设定稿)。
 
