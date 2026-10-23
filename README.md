@@ -1,5 +1,7 @@
 # picsforvideo
 
+【抱图请点个star，对你没有任何用，对我可能也没有任何用，我只是想要】
+
 <p align="center"><img src="BV1Hzpm6hEaY-%E6%82%A8%E7%9A%84%E8%B4%A6%E5%8F%B7%E5%B7%B2%E8%A2%AB%E5%B0%81%E7%A6%81/%E9%9C%B2%E5%A4%B4%E6%88%91%E5%B0%B1%E7%A7%92.png" alt="露头我就秒" width="100%"></p>
 
 <p align="center"><b>露头我就秒。</b>——《Claude热唱：您的账号已被封禁》</p>
