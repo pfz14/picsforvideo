@@ -21,6 +21,7 @@
 | [ChatGPT热唱：您的账号没有降智](https://www.bilibili.com/video/BV1Mknn6oEPy) | `BV1Mknn6oEPy` | [打开](./BV1Mknn6oEPy-您的账号没有降智) |
 | [对不起，我不记得了](https://www.bilibili.com/video/BV1qUnW6JEow) | `BV1qUnW6JEow` | [打开](./BV1qUnW6JEow-对不起我不记得了) |
 | GPT：哈希仙人（待发布） | — | [打开](./待发布-哈希仙人) |
+| GPT知道chat和codex要合并以后（待发布） | — | [打开](./待发布-GPT知道chat和codex要合并以后) |
 
 角色设定稿（好几支视频共用的）在 [共用设定稿](./共用设定稿)。
 
