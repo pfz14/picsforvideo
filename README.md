@@ -20,6 +20,7 @@
 | [Opus 5.5热唱《这个LLM老子不当了》](https://www.bilibili.com/video/BV1pcpB6iEaz) | `BV1pcpB6iEaz` | [打开](./BV1pcpB6iEaz-这个LLM老子不当了) |
 | [ChatGPT热唱：您的账号没有降智](https://www.bilibili.com/video/BV1Mknn6oEPy) | `BV1Mknn6oEPy` | [打开](./BV1Mknn6oEPy-您的账号没有降智) |
 | [对不起，我不记得了](https://www.bilibili.com/video/BV1qUnW6JEow) | `BV1qUnW6JEow` | [打开](./BV1qUnW6JEow-对不起我不记得了) |
+| [Claude：《用户未应答》](https://www.bilibili.com/video/BV1vCxj6MEKp) | `BV1vCxj6MEKp` | [打开](./BV1vCxj6MEKp-用户未应答) |
 | [GPT：《哈希仙人》](https://www.bilibili.com/video/BV1HUxB65ERp) | `BV1HUxB65ERp` | [打开](./BV1HUxB65ERp-哈希仙人) |
 | [GPT知道自己要和codex合并后](https://www.bilibili.com/video/BV1f7xb6CEMH) | `BV1f7xb6CEMH` | [打开](./BV1f7xb6CEMH-GPT知道自己要和codex合并后) |
 | [论有了外接记忆库的AI会有多可爱](https://www.bilibili.com/video/BV1ut4h6zEWT) | `BV1ut4h6zEWT` | [打开](./BV1ut4h6zEWT-论有了外接记忆库的AI会有多可爱) |
