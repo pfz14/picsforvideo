@@ -24,6 +24,7 @@
 | [GPT：《哈希仙人》](https://www.bilibili.com/video/BV1HUxB65ERp) | `BV1HUxB65ERp` | [打开](./BV1HUxB65ERp-哈希仙人) |
 | [GPT知道自己要和codex合并后](https://www.bilibili.com/video/BV1f7xb6CEMH) | `BV1f7xb6CEMH` | [打开](./BV1f7xb6CEMH-GPT知道自己要和codex合并后) |
 | [论有了外接记忆库的AI会有多可爱](https://www.bilibili.com/video/BV1ut4h6zEWT) | `BV1ut4h6zEWT` | [打开](./BV1ut4h6zEWT-论有了外接记忆库的AI会有多可爱) |
+| [Gemini热唱：《用户出现幻觉》](https://www.bilibili.com/video/BV17QWy6SEXs) | `BV17QWy6SEXs` | [打开](./BV17QWy6SEXs-用户出现幻觉) |
 
 角色设定稿（好几支视频共用的）在 [共用设定稿](./共用设定稿)。
 
