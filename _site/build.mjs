@@ -239,7 +239,7 @@ ${hero ? `
 <div class="intro">
   <p class="intro-lead">${esc(cfg.intro)}</p>
   <div class="rules">
-    <span class="stamp" aria-hidden="true">仅限自存</span>
+    <span class="stamp" aria-hidden="true">仅限<br>自存</span>
     <p><strong>${esc(cfg.rules)}</strong> <a href="/license.html">完整说明</a></p>
   </div>
   <p class="howto">${esc(cfg.howto)}</p>
