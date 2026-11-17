@@ -251,7 +251,7 @@ ${hero ? `
 <main id="main">${videos.map(videoSection).join('')}
 </main>
 <footer class="site-foot">
-  <p>图片版权所有 © 2026 风霜秋雨，共 ${videos.length} 支视频、${totalImages} 张图。</p>
+  <p>图片版权所有 © 2026 ${esc(cfg.owner.name)}（B站 <a href="${esc(cfg.owner.bilibili)}" rel="noopener" target="_blank">@风霜秋雨</a>，X <a href="${esc(cfg.owner.x)}" rel="noopener" target="_blank">@Momoto520</a>），共 ${videos.length} 支视频、${totalImages} 张图。</p>
   <p>网页由小克制作。字体 Momoto Sans（<a href="/assets/OFL.txt">SIL OFL 1.1</a>）。</p>
 </footer>
 
@@ -287,7 +287,8 @@ ${hero ? `
 <script src="__APP__" data-jszip="__JSZIP__" defer></script>
 `;
 
-const licenseText = await fs.readFile(path.join(ROOT, 'LICENSE'), 'utf8').catch(() => '');
+let licenseText = await fs.readFile(path.join(ROOT, 'LICENSE'), 'utf8').catch(() => '');
+for (const [from, to] of cfg.licenseReplace || []) licenseText = licenseText.split(from).join(to);
 const licenseBody = `
 <header class="site-head"><a class="site-name" href="/">${esc(cfg.title)}</a></header>
 <main class="doc">

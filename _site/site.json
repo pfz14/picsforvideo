@@ -6,10 +6,34 @@
   "howto": "点图看大图。点图右上角的圆圈可以多选，选好了一起打包下载。",
   "hero": {
     "image": "BV1Hzpm6hEaY-您的账号已被封禁/露头我就秒.png",
-    "quote": "露头我就秒。",
+    "quote": "中国人是吧",
     "source": "《Claude热唱：您的账号已被封禁》"
   },
-  "bilibili": "",
-  "skip": ["待发布", ".", "_", "node_modules"],
-  "origin": "https://pics.momoto520.com"
+  "bilibili": "https://space.bilibili.com/472150",
+  "skip": [
+    "待发布",
+    ".",
+    "_",
+    "node_modules"
+  ],
+  "origin": "https://pics.momoto520.com",
+  "owner": {
+    "name": "风霜秋雨",
+    "bilibili": "https://space.bilibili.com/472150",
+    "x": "https://x.com/Momoto520"
+  },
+  "licenseReplace": [
+    [
+      "风霜秋雨（GitHub: pfz14）",
+      "风霜秋雨（B站 @风霜秋雨，X @Momoto520）"
+    ],
+    [
+      "风霜秋雨 (GitHub: pfz14)",
+      "风霜秋雨 (Bilibili @风霜秋雨, X @Momoto520)"
+    ],
+    [
+      "风霜秋雨",
+      "风霜秋雨"
+    ]
+  ]
 }

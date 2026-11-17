@@ -107,12 +107,11 @@ button { font: inherit; color: inherit; }
   display: grid;
   gap: 14px;
 }
-.intro-lead { font-size: 18px; max-width: 34em; }
+.intro-lead { font-size: 18px; }
 .rules {
   display: flex; align-items: center; gap: 14px;
   border: var(--rule) solid var(--ink);
   padding: 12px 14px;
-  max-width: 40em;
 }
 .rules p { font-size: 15px; }
 .stamp {
