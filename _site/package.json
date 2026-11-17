@@ -1,0 +1,17 @@
+{
+  "name": "picsforvideo-site",
+  "private": true,
+  "type": "module",
+  "description": "pics.momoto520.com 下载页的生成脚本",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "jszip": "3.10.2",
+    "sharp": "0.35.5",
+    "subset-font": "2.9.0"
+  }
+}
