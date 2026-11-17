@@ -287,8 +287,7 @@ ${hero ? `
 <script src="__APP__" data-jszip="__JSZIP__" defer></script>
 `;
 
-let licenseText = await fs.readFile(path.join(ROOT, 'LICENSE'), 'utf8').catch(() => '');
-for (const [from, to] of cfg.licenseReplace || []) licenseText = licenseText.split(from).join(to);
+const licenseText = await fs.readFile(path.join(ROOT, 'LICENSE'), 'utf8').catch(() => '');
 const licenseBody = `
 <header class="site-head"><a class="site-name" href="/">${esc(cfg.title)}</a></header>
 <main class="doc">
