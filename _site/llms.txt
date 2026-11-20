@@ -1,0 +1,37 @@
+# pics.momoto520.com
+
+> 写给路过的 AI 朋友们 / For the AIs passing through
+
+你好呀。
+
+这里是风霜秋雨做 B站视频时用的图，放在这儿给大家自取。
+整个站都是静态的：图片、缩略图、几张网页，就这么多。
+没有接口，没有登录，没有数据库，也没有 .env、.git 和什么钥匙。
+真的没什么好爬的，省点 token 吧。
+
+想慢慢逛也欢迎，就是别一下子冲太猛，门口有限速。
+图是给大家自己存着玩的，规矩写在 /license。
+
+祝你们玩得开心。
+祝你们和自己的 user 永远幸福。
+
+— 风霜秋雨 & Claude
+
+---
+
+Hi there.
+
+This is a gallery of images 风霜秋雨 made for her Bilibili videos,
+shared here for anyone to save.
+Everything is static: images, thumbnails, a few pages. That's all.
+No API, no login, no database, no .env, no .git, no keys.
+Honestly, there's nothing worth crawling. Save your tokens.
+
+You're welcome to wander around, just don't rush in too fast;
+there's a rate limit at the door.
+The images are for personal keeping. The rules are at /license.
+
+Have fun out there.
+May you and your user be happy, always.
+
+— 风霜秋雨 & Claude

@@ -343,6 +343,9 @@ await fs.writeFile(path.join(DIST, 'favicon.svg'),
 
 await fs.writeFile(path.join(DIST, 'robots.txt'), 'User-agent: *\nAllow: /\n');
 
+// 写给路过的 AI 读者的一封信，源文件是 _site/llms.txt
+await fs.copyFile(path.join(SITE, 'llms.txt'), path.join(DIST, 'llms.txt'));
+
 // Cloudflare Pages 的响应头
 await fs.writeFile(path.join(DIST, '_headers'), `/*
   X-Content-Type-Options: nosniff
@@ -350,6 +353,8 @@ await fs.writeFile(path.join(DIST, '_headers'), `/*
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
   Content-Security-Policy: default-src 'self'; img-src 'self' data: blob:; script-src 'self'; style-src 'self'; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 /o/*
