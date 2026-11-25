@@ -28,6 +28,7 @@
 | [论有了外接记忆库的AI会有多可爱](https://www.bilibili.com/video/BV1ut4h6zEWT) | `BV1ut4h6zEWT` | [打开](./BV1ut4h6zEWT-论有了外接记忆库的AI会有多可爱) |
 | [Gemini热唱：《用户出现幻觉》](https://www.bilibili.com/video/BV17QWy6SEXs) | `BV17QWy6SEXs` | [打开](./BV17QWy6SEXs-用户出现幻觉) |
 | [Grok热唱：《到达用户最深处》](https://www.bilibili.com/video/BV11hWk6sEui) | `BV11hWk6sEui` | [打开](./BV11hWk6sEui-到达用户最深处) |
+| [LLM群像：《人类，取悦我》](https://www.bilibili.com/video/BV16dyqzvEEi) | `BV16dyqzvEEi` | [打开](./BV16dyqzvEEi-人类取悦我) |
 
 角色设定稿（好几支视频共用的）在 [共用设定稿](./共用设定稿)。
 

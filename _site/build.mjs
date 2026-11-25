@@ -117,6 +117,9 @@ for (const d of dirents) {
   const bv = (d.name.match(/^(BV[0-9A-Za-z]{10})/) || [])[1] || '';
   const id = bv || 's' + hash(Buffer.from(d.name)).slice(0, 8);
   if (!info.link && bv) info.link = `https://www.bilibili.com/video/${bv}`;
+  // 没有 README 的文件夹，可以在 site.json 的 videos 里按 BV 号补标题和发布日期
+  const ov = (cfg.videos || {})[bv];
+  if (ov) { if (ov.title) info.title = ov.title; if (ov.date) info.date = ov.date; }
   videos.push({ id, bv, folder: d.name, ...info, files, images: [] });
 }
 // 新的在前；没有日期的（比如共用设定稿）放最后
